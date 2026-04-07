@@ -37,6 +37,8 @@ I build digital solutions and user-friendly, scalable web applications.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Microsoft Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess)
 ![i18n](https://img.shields.io/badge/i18n-000000?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### Design & Multimedia
 
@@ -58,7 +60,7 @@ I build digital solutions and user-friendly, scalable web applications.
 
 ## 🚀 Philosophy
 
-> "Every complex problem becomes clear once you break it down and study it."
+> "If someone can create, you can learn"
 
 ---
 
