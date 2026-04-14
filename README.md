@@ -47,7 +47,7 @@ Full-stack web application developed for a professional photographer to manage a
   - Image upload and management system
   - Responsive portfolio for client presentation
   - REST API integration
-- 🌐 Live Demo: https://camillasantosphotos.netlify.app/
+- 🌐 Live Demo: https://portfolio-fotografia-one.vercel.app/
  
 🤝 Always open to collaborations, partnerships, and cool ideas
 
